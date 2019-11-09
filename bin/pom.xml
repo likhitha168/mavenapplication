@@ -46,12 +46,6 @@
 			<version>3.2.3.RELEASE</version>
 			<scope>test</scope>
 		</dependency>
-		
-		<dependency>
-    <groupId>org.json</groupId>
-    <artifactId>json</artifactId>
-    <version>20190722</version>
-</dependency>
 
 		<dependency>
 			<groupId>org.mockito</groupId>
